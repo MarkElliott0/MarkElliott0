@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on Python and R scripts for data science projects
+🔭 I’m currently working on Python scripts for data science projects
 🌱 I’m currently learning Python and machine learning
 🤔 I’m looking for help with Python
 💬 Ask me about local authority data sets
